@@ -1,0 +1,30 @@
+-> What is Node.js?
+	Node is not a language.
+	This is a server environment
+	Node js can connect with database beacause its server side
+	Code and syntax is very similar to javascript
+	But not exactly the same
+	Node js free, open source
+	Node js use Chrome's V8 engine to execute code.
+	Node js mostly used for API.
+	Basically Node js 1 run time environment ha koi language nahi ha  ya js ka code run karta ha with the help of v8 engine. 
+	
+	
+-> JS and Node are the same?
+   JS and Node js code Systax is same
+   You cannot connect js with DB
+   Node can connect with DB
+   Node js run on the server side
+   JS is run on the browser
+   
+   
+-> How node js works
+   1) Call Stack : Basically 1 stack ha jisma function register hota ha then uska accordingly stack ka ma atta rahata ha and then 1 by1 execute ho jatta ha. Bydefault esma main() hota ha kyoki esma c c++ kii library hoti ha integrate
+   2) Node API : node api ma wo function a jatta ha joo c c++ library ka hota ha jaise example setTimeout. phir ya sab callback queue ma 1 1 karka jatta ha
+   3) CallBack Queue  : jab esma 1  1 karka function atta ha jab hamara stack ma sa main bhi hatt jatta ha tab ya callback  queue wala stack ma jatta ha and executehota ha
+
+
+-> Template Engine
+   - Template engine basically dynamic page bnana ka kaam ma atta ha. ya bhi npm ka package heee hota ha
+   - EJS 
+   
