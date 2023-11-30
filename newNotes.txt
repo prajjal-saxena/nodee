@@ -28,3 +28,33 @@
    - Template engine basically dynamic page bnana ka kaam ma atta ha. ya bhi npm ka package heee hota ha
    - EJS 
    
+   
+-> Middlewares
+   ya kuch function hota ha jinko hum routes ka saat use karta ha eski help sa hum req or res ko access kar sakta ha or modify bhi kar sakta ha req and res ko
+   Example jaise huma kissi country ma block karna ha
+   
+   
+   
+ -> Route level middleware
+    ys 1 route ka upar bhi lag sakta ha and group of route ka upar bhi lag sakta ha  or sarra ka sarra route par bhi lag sakta ha 
+	
+	
+Mongo Compass : Mongo compass is GUI (Graphical user interface)
+
+
+
+
+
+
+
+-> What is mongoDB
+   Mongodb is a NoSQL database.
+   The data stored in a collection
+   Collection dont have row and column
+   Data is stored in the form of object.
+   - show dbs to show all the database
+   - db.createCollection('videos')  to create the collection
+   - db.videos.drop() to delete the collection
+   - show collections to see the collection in the particular database
+   - use prajjal  es command sa hum konsa database ha waha jaa sakta ha
+   
