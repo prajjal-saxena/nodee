@@ -58,3 +58,36 @@ Mongo Compass : Mongo compass is GUI (Graphical user interface)
    - show collections to see the collection in the particular database
    - use prajjal  es command sa hum konsa database ha waha jaa sakta ha
    
+   
+   
+   
+   API with MongoDB
+   
+   get : database sa data get karna ka lia hota ha
+   POST : data ko database ka andar save karta ha
+   PUT : database sa data ko update karta ha
+   DELETE : database sa data delete karta ha
+   
+   Q: req sa body getkarna ka lia hum kya karoga?
+   express.json()
+   
+   Q: kya post method sa hum data ko update nahi kar sakta?
+      kar sakta ha but standard method PUT method hota ha
+	 
+   Mongoose
+   Advance version of mongodb jaise kii hum chata ha 1 object ma name, brand heeee ho but mongo db ma extra agar usna kardi
+   toh wo bhi add ho ja agi or jaise agar kissi na integer data ko jaise kii 2 ha but kissi na string ma daal dia "2" toh bhi
+   store ho ja aga toh en sab chiij ko sambhal na ka lia moongooose ha
+   
+   Q: What is schema?
+      ya basically database ki jo field hoti ha usa validate karti ha
+	  ek tarika sa jo 1 database ki field hoti ha usa heeee schema bolta ha
+	  
+   Q: What is modal?
+      modal karta ha un schema koo use karka node js or mongodb ko connect karta ha
+   
+   
+    Upload File in Node js
+	
+	- Install Multer npm package
+	
